@@ -1,0 +1,3 @@
+[submodule "PopbillMessaging"]
+	path = PopbillMessaging
+	url = https://github.com/linkhub-sdk/popbill.messaging.php.git
