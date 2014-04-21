@@ -13,6 +13,7 @@ popbill.messaging.example.php
 + GetBalance.php  - 연동회원 잔여포인트 확인
 + GetPartnerBalance.php - 파트너 잔여 통합포인트 확인
 + GetPopbillURL.php - 팝빌 기본 URL 확인
++ GetUnitCost.php	- 발송 단가 확인
 + SendSMS.php	- 단문메시지 전송
 + SendLMS.php	- 장문메시지 전송
 + SendXMS.php	- 장/단문 메시지 전송
