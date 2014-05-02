@@ -1,7 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
 
 echo '문자전송 내역 및 전송상태 확인 테스트'.chr(10).'처리결과 : ' ;
 

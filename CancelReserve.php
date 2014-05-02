@@ -1,7 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
 
 echo '예약전송건 취소 테스트'.chr(10).'처리결과 : ' ;
 

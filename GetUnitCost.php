@@ -1,8 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\ENumMessageType;
 
 echo '전송 단가 확인 테스트'.chr(10).'처리결과 : ' ;
 

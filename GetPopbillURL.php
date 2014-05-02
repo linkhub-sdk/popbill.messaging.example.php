@@ -1,7 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
 
 echo '팝빌 기본 URL 확인 테스트'.chr(10).'처리결과 : ' ;
 

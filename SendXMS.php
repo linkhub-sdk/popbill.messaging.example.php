@@ -1,7 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
 
 echo '장/단문문자 전송 테스트'.chr(10).'처리결과 : ' ;
 

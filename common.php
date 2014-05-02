@@ -1,7 +1,6 @@
 <?php
 
 require_once 'PopbillMessaging/PopbillMessaging.php';
-use Popbill\MessagingService;
 
 //파트너 아이디
 $PartnerID = 'TESTER';
