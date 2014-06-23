@@ -6,7 +6,7 @@ echo '팝빌 연동회원 가입 테스트'.chr(10).'처리결과 : ' ;
 
 $joinForm = new JoinForm ();
 
-$joinForm->PartnerID 	= $PartnerID;
+$joinForm->LinkID 		= $LinkID;
 $joinForm->CorpNum 		= '1231212312';
 $joinForm->CEOName 		= '대표자성명';
 $joinForm->CorpName 	= '테스트사업자상호';
